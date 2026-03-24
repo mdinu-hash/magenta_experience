@@ -201,13 +201,50 @@ body {
   text-align: center;
 }
 
-.final-answer__agent-text {
-  font-size: 15px;
-  color: var(--text-primary);
-  line-height: 1.7;
+.final-answer__section-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--magenta);
+  margin: 0;
+}
+
+.final-answer__solutions,
+.final-answer__whys {
+  list-style: none;
+  padding: 0;
+  margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 12px;
+}
+
+.final-answer__solution {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-left: 12px;
+  border-left: 2px solid var(--magenta);
+}
+
+.final-answer__solution-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--magenta);
+}
+
+.final-answer__solution-summary {
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.final-answer__why {
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.7;
+  padding-left: 12px;
+  border-left: 2px solid var(--magenta);
 }
 
 /* ── Input bar ── */

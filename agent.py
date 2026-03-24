@@ -1,4 +1,5 @@
 import datetime
+import json
 import os
 import uuid
 from typing import Annotated, Any, Literal, Optional, Sequence
@@ -273,7 +274,7 @@ Solutions to recommend:
 {solutions}
 
 For each solution, output:
-- summary: 1–3 sentences capturing the core value of the solution.
+- summary: 1–3 sentences capturing the core value of the solution. Maximum 200 characters.
 - why: 1–2 sentences explaining specifically why THIS customer needs this solution, referencing their stated needs."""
     )
 
@@ -283,9 +284,12 @@ For each solution, output:
         "solutions": solutions_text,
     })
 
-    summaries = "\n".join(f"{sol.title}: {sol.summary}" for sol in result.solutions)
-    whys = "\n".join(sol.why for sol in result.solutions)
-    final_answer = f"Solutions recommended:\n{summaries}\n\n{whys}"
+    final_answer = json.dumps({
+        "solutions": [
+            {"title": sol.title, "summary": sol.summary, "why": sol.why}
+            for sol in result.solutions
+        ]
+    })
 
     return {"final_answer": final_answer}
 

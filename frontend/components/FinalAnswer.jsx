@@ -1,5 +1,3 @@
-import React from 'react'
-
 const WHY_BOXES = [
   'Trusted European provider',
   'Over 25 years of expertise',
@@ -8,6 +6,8 @@ const WHY_BOXES = [
 ]
 
 export default function FinalAnswer({ text }) {
+  const data = JSON.parse(text)
+
   return (
     <div className="final-answer">
       <h2 className="final-answer__title">Why T-Systems</h2>
@@ -26,11 +26,24 @@ export default function FinalAnswer({ text }) {
         ))}
       </div>
 
-      <div className="final-answer__agent-text">
-        {text.split('\n').map((line, i) => (
-          <p key={i}>{line}</p>
+      <h3 className="final-answer__section-title">Solutions Recommended</h3>
+      <ul className="final-answer__solutions">
+        {data.solutions.map((sol) => (
+          <li key={sol.title} className="final-answer__solution">
+            <span className="final-answer__solution-title">{sol.title}</span>
+            <p className="final-answer__solution-summary">{sol.summary}</p>
+          </li>
         ))}
-      </div>
+      </ul>
+
+      <h3 className="final-answer__section-title">Why</h3>
+      <ul className="final-answer__whys">
+        {data.solutions.map((sol) => (
+          <li key={sol.title} className="final-answer__why">
+            {sol.why}
+          </li>
+        ))}
+      </ul>
     </div>
   )
 }
