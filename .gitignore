@@ -1,0 +1,8 @@
+env-magenta/
+magenta-experience/
+notebooks/
+__pycache__/
+.env
+*.pyc
+frontend/dist/
+node_modules/

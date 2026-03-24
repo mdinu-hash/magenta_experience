@@ -1,0 +1,9 @@
+langchain-anthropic
+langchain-core
+langgraph
+pydantic
+typing-extensions
+python-dotenv
+langsmith
+fastapi
+uvicorn[standard]
