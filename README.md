@@ -1,5 +1,7 @@
 # magenta_experience
 
+An AI assistant for T-Systems that engages customers in a short conversation to understand their needs, then recommends the most relevant AI solutions from the T-Systems portfolio with personalized reasoning.
+
 # Stack
 
 Frontend: React
@@ -48,14 +50,40 @@ Benefit from the latest NVIDIA technology and the experience of a European provi
 
 # Agentic AI layer
 
-
+```
+                             [BEGIN]
+                                │
+                                ▼
+                    ┌────────────────────────┐
+             ┌─────►│      orchestrator      │
+             │      │ ───────────────────── │
+             │      │  Decide: clarify or    │
+             │      │  recommend?            │
+             │      └───────────┬────────────┘
+             │                  │
+             │       ┌──────────┴──────────┐
+             │       │                     │
+             │    CLARIFY             RECOMMEND
+             │       │                     │
+             │       ▼                     ▼
+             │  ┌─────────────┐   ┌─────────────────────┐
+             │  │ ask_question│   │   generate_answer   │
+             │  │ ─────────── │   │ ─────────────────── │
+             │  │  Generate   │   │  Create structured  │
+             │  │  clarifying │   │  answer             │
+             │  │  question   │   └──────────┬──────────┘
+             │  └──────┬──────┘              │
+             │         │                     │
+             │  Reuse Thread                 ▼
+             └─────────┘                   [END]
+              Human In The Loop
+```
 
 # Structured output
 
-1) Why T-Systems (value,vision): "Why T-Systems": 
-https://www.t-systems.com/de/en/artificial-intelligence/topics/artificial-intelligence-and-data#anchor_1130390
+1) Why T-Systems
 
-2) Recommended T-Systems solutions (short description of solution)
+2) Recommended T-Systems solutions
 
-3) Why (reasoning)
+3) Why
 
