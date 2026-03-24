@@ -1,4 +1,4 @@
-const WHY_BOXES = [
+const WHY_BULLETS = [
   'Trusted European provider',
   'Over 25 years of expertise',
   '1,500+ global AI and data experts',
@@ -12,18 +12,17 @@ export default function FinalAnswer({ text }) {
     <div className="final-answer">
       <h2 className="final-answer__title">Why T-Systems</h2>
 
-      <p className="final-answer__mission">
-        Our mission is to help organizations not just use AI, but continuously
-        improve it, delivering trustworthy, scalable, and high-impact solutions
-        that drive productivity, innovation, and real business outcomes.
-      </p>
-
-      <div className="final-answer__boxes">
-        {WHY_BOXES.map((box) => (
-          <div key={box} className="final-answer__box">
-            {box}
-          </div>
-        ))}
+      <div className="final-answer__mission">
+        <p>
+          Our mission is to help organizations not just use AI, but continuously
+          improve it, delivering trustworthy, scalable, and high-impact solutions
+          that drive productivity, innovation, and real business outcomes.
+        </p>
+        <ul className="final-answer__bullets">
+          {WHY_BULLETS.map((item) => (
+            <li key={item}>{item}</li>
+          ))}
+        </ul>
       </div>
 
       <h3 className="final-answer__section-title">Solutions Recommended</h3>
