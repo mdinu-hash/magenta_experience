@@ -230,7 +230,7 @@ body {
 .final-answer__solution-title {
   font-size: 14px;
   font-weight: 700;
-  color: var(--magenta);
+  color: var(--text-primary);
 }
 
 .final-answer__solution-summary {
