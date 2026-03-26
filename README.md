@@ -14,9 +14,10 @@ Observability: langsmith
 # Data layer (11 portfolio solutions)
 
 ## Industrial AI Cloud
-   { 'title':'Industrial AI Cloud',
+   { 
+    'title':'Industrial AI Cloud',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/industrial-ai-cloud',
-    'content':"""
+    'content':
 The cloud for industrial AI – fast, sovereign, and scalable.
 Are you looking for a powerful and sovereign AI platform?
 With the Industrial AI Cloud, we – together with NVIDIA – offer a high-performance AI cloud for enterprises, research institutions, and the public sector. The platform is independent, GDPR-compliant, and meets all requirements of the EU AI Act.
@@ -42,7 +43,7 @@ Deutsche Telekom and NVIDIA unite to deliver a sovereign, high-performance AI cl
 
 AI sovereignty for Europe - now available for all industries
 Benefit from the latest NVIDIA technology and the experience of a European provider that ensures maximum sovereignty.
-"""
+
 },
 ## AI Solution Factory
     {
