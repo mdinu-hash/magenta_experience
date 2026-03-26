@@ -14,12 +14,12 @@ Observability: langsmith
 # Data layer (11 portfolio solutions)
 
 ## Industrial AI Cloud
-   { 
-    'title':'Industrial AI Cloud',
 
-    'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/industrial-ai-cloud',
+title: Industrial AI Cloud
 
-    'content': 
+link: https://www.t-systems.com/de/en/artificial-intelligence/solutions/industrial-ai-cloud
+
+content: 
 The cloud for industrial AI – fast, sovereign, and scalable.
 Are you looking for a powerful and sovereign AI platform?
 With the Industrial AI Cloud, we – together with NVIDIA – offer a high-performance AI cloud for enterprises, research institutions, and the public sector. The platform is independent, GDPR-compliant, and meets all requirements of the EU AI Act.
@@ -46,15 +46,13 @@ Deutsche Telekom and NVIDIA unite to deliver a sovereign, high-performance AI cl
 AI sovereignty for Europe - now available for all industries
 Benefit from the latest NVIDIA technology and the experience of a European provider that ensures maximum sovereignty.
 
-},
 ## AI Solution Factory
-    {
 
-    'title':'AI Solution Factory',
+title: AI Solution Factory
 
-    'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-solution-factory',
+link: https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-solution-factory
 
-    'content':"""    
+content: 
 AI Solution Factory: When Failure Is Not an Option
 
 Reduce failure rates and introduce intelligent automation to business processes with AI Solution Factory from T-Systems
@@ -88,16 +86,14 @@ enable predictive insights
 direct feedback to personnel in case of security related deviations
 real time processing dependent on computational resources
 highly scalable to large number of cameras
-"""
-},
+
 ## AI Foundation Services
-    {
 
-    'title':'AI Foundation Services',
+title: AI Foundation Services
 
-    'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-foundation-services',
+link: https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-foundation-services'
 
-    'content':"""
+content:
 AI Foundation Services: Empower your enterprise with trusted, compliant AI solutions for tomorrow’s growth 
 
 Transform your IT landscape with AI-driven innovation
@@ -120,16 +116,14 @@ regulated industries to innovate without ceding data privacy or control
 Assistants and agentic workflows: Create custom assistants or agents for your team to streamline repetitive tasks
 Enhanced customer and workforce experience: Equip teams with intuitive tools and elevate customer interactions through seamless, secure services
 Rapid implementation: Reduce deployment time with pre-configured modules
-"""
-},
+
 ## Artificial Intelligence and Data Analytics
-    {
 
-    'title':'Artificial Intelligence and Data Analytics',
+title: Artificial Intelligence and Data Analytics
 
-    'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/artificial-intelligence-and-data-analytics',
+link: https://www.t-systems.com/de/en/artificial-intelligence/solutions/artificial-intelligence-and-data-analytics
 
-    'content':"""
+content:
 How companies turn their data into gold
 
 TWith data analytics and artificial intelligence (AI): What companies can get out of their data
@@ -148,16 +142,14 @@ AI enables insurance companies to settle claims digitally in real time: In the e
 
 Security and data protection as the top priority with AI
 Thanks to our comprehensive partner ecosystem, we are familiar with all technologies related to big data and artificial intelligence. We are familiar with databases and data warehouses. In doing so, we act independently of manufacturers, so that a vendor lock-in can be avoided. We also offer you exactly the best-of-breed solutions that fit your needs. In a way that is cost-efficient, fail-safe and is conforms to compliance and data protection requirements. Cybersecurity and data protection are integral parts of T-Systems' DNA. For us, data security is the top priority in AI projects.
-"""
-},
+
 ## AI on Google Cloud
-    {
 
-    'title':'AI on Google Cloud',
+title: AI on Google Cloud
 
-    'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-on-google-cloud',
+link: https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-on-google-cloud
 
-    'content':"""
+content:
 AI solutions on Google Cloud
 Utilize Google Cloud to create and deploy powerful AI models that benefit your business
 
@@ -168,16 +160,14 @@ Whether you are keen on enhancing customer interactions, streamlining operations
 Advanced AI services from Google Cloud
 
 The Google Cloud Vertex AI platform is a powerful managed machine learning solution that enables you to build, deploy, and scale ML models efficiently. By integrating Google Cloud services, Vertex AI offers ML engineers and data scientists the tools needed to streamline the ML and MLOps workflow, including the use of Vertex AI pipelines. Our GenAI solutions leverage Vertex AI to train and deploy large language models, including Google's flagship LLM, Gemini. We customize these pre-trained models with your data to fulfill specific business needs. Additional usage of Google Cloud's robust infrastructure for data processing, storage, and scalable deployment ensures full life cycle support for your AI applications. Through the Vertex AI Model Garden, we also integrate specialized open-source LLMs, enabling seamless expansion and customization of your AI capabilities.
-"""
-},
+
 ## UiPath AI-as-a-Service
-    {
 
-    'title':'UiPath AI-as-a-Service',
+title: UiPath AI-as-a-Service
 
-    'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/uipath-ai-as-a-service',
+link: https://www.t-systems.com/de/en/artificial-intelligence/solutions/uipath-ai-as-a-service
 
-    'content':"""
+content:
 Smarter automation with UiPath AI-as-a-Service
 
 AI-as-a-Service with UiPath AI modules
@@ -188,16 +178,15 @@ By combining robotic process automation (RPA) and artificial intelligence (AI), 
 
 Transforming into a responsible, AI-supported company
 T-Systems supports its customers in optimally positioning themselves in the field of AI and generating concrete added value. Additionally, we assist companies from the initialization to the introduction and implementation of solutions.
-"""
-},
+
+
 ## Big Data Analytics
-    {
 
-    'title':'Big Data Analytics',
+title:Big Data Analytics
 
-    'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/big-data-analytics',
+link: https://www.t-systems.com/de/en/data-intelligence/solutions/big-data-analytics
 
-    'content':"""
+content:
 Cost efficiency and quick data analysis in construction, testing, and production
 
 End-to-end solution for efficient data management and faster evaluations
@@ -226,16 +215,14 @@ Linking measurement data with metadata: simplified data search and selection bas
 Greater flexibility and data processing around 40 times faster: spontaneous, parallel, and global analysis requests via API using various developer tools.
 Security and efficiency in the operation of the big data infrastructure: managed service from T-Systems covering all components from a single source and with security by design.
 We look forward to your project!
-"""
-},
-## Data Intelligence Hub
-    {
 
-    'title':'Data Intelligence Hub',
+## Data Intelligence Hub 
 
-    'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-intelligence-hub',
+title:Data Intelligence Hub
 
-    'content':"""
+link: https://www.t-systems.com/de/en/data-intelligence/solutions/data-intelligence-hub
+
+content:
 Share, process, and analyze data on your own terms with data sovereignty protection
 
 Start monetizing now – unlock the value in your data!
@@ -288,16 +275,14 @@ Reuse, recycle and remanufacture – Be the circular economy leader in your indu
 
 Modal travel shift
 Enable trust between mobility providers to share data to unlock higher efficiency and utilization of mobility resources, to gain a triple win outcome – “everyone’s a winner”: consumers (better travel), providers (more business), and cities (cleaner, safer, less noise). Tap into new data sources and create new business opportunities by offering your data-as-a-product.
-"""
-},
+
 ## Data Spaces
-    {
 
-    'title':'Data Spaces',
+title: Data Spaces
 
-    'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-spaces',
+link: https://www.t-systems.com/de/en/data-intelligence/solutions/data-spaces
 
-    'content':"""
+content:
 Data spaces: using data together
 
 Exchange data across the company. And use this to improve processes and products.
@@ -307,15 +292,14 @@ To share data, partners currently need to sign contracts on the use of the data.
 
 From data warehouses to data spaces
 Data warehouses were considered the optimal solution to unite structured data from heterogeneous sources for analysis in a central database. A data lake takes it one step further and saves both structured and unstructured data. The unformatted data are only processed for each given analysis. Data spaces dissolve this centrality and offer a decentralized solution where each participant can offer their own data. They stay with the supplier and are made available through secure peer-to-peer communication with common semantics and data sovereignty.
-"""
-},
+
 ## Data Mesh
-    {
-    'title':'Data Mesh',
 
-    'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-mesh',
+title:Data Mesh
 
-    'content':"""
+link: https://www.t-systems.com/de/en/data-intelligence/solutions/data-mesh,
+
+content:
 Data Mesh architecture, products, and solutions
 Unlock data's potential with decentralized ownership for agile management and smarter decisions
 
@@ -333,17 +317,14 @@ Domain oriented ownership: Data stewardship assigned to experts
 Data as a product: owners ensure data is accessible and valuable
 federated governance: collaborative global data policies
 Self serve platform: decentralized data delivery, reduces costs
-"""
-},
+
 ## Magenta Digital Product Passport
 
-    {
+title:Magenta Digital Product Passport,
 
-    'title':'Magenta Digital Product Passport',
+link: https://www.t-systems.com/de/en/data-intelligence/solutions/digital-product-passport,
 
-    'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/digital-product-passport',
-    
-    'content':"""
+content:
 Digital Product Passport made simple
 Comply with EU regulations and turn compliance into a digital advantage
 
@@ -376,8 +357,6 @@ Scalable for every product and companies of all sizes
 
 Beyond compliance: Unlock new digital value
 The Digital Product Passport is more than a regulatory requirement – it enables data-driven innovation. By aggregating product information across the entire lifecycle, it creates a single source of truth for engineering, supply chain, and service. Use this data for change management, enterprise search, sustainability analyses, or new digital business models such as using the DPP as a service platform. T-Systems supports you with consulting, integration, and operations, turning your DPP initiatives into strategic value.
-"""
-}
 
 # Agentic AI layer
 
