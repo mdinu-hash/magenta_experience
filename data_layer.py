@@ -42,7 +42,10 @@ Make your systems efficient and fail-proof with AI
 Looking to make your systems more efficient and reliable with AI? Success depends on full integration with business processes, IT systems, and data sources – plus high availability and scalability. Our AI Solution Factory, led by seasoned AI and technology experts, helps you eliminate risks and move confidently into live, production-ready environments.
 
 Your business knowledge, our solution
-Does your AI solution provide scalability and reliability? Are you struggling to integrate AI on Edge or within hyperscaler environments? Make the transition from AI prototype to productive end systems easier and more cost-efficient. The AI Solution Factory combines an Application Suite which links to your business logic and systems, together with a Deep Learning factory, which provides a standardized environment for the development of AI services, with a cloud-agnostic approach. This end-to-end solution eliminates the three main failure rates to ensure AI integrates with your customer systems.
+Does your AI solution provide scalability and reliability? Are you struggling to integrate AI on Edge or within hyperscaler environments? 
+Make the transition from AI prototype to productive end systems easier and more cost-efficient. 
+The AI Solution Factory combines an Application Suite which links to your business logic and systems, together with a Deep Learning factory, which provides a standardized environment for the development of AI services, with a cloud-agnostic approach. 
+This end-to-end solution eliminates the three main failure rates to ensure AI integrates with your customer systems.
 
 Enable cross-use case execution of AI
 
@@ -74,7 +77,9 @@ AI Foundation Services: Empower your enterprise with trusted, compliant AI solut
 
 Transform your IT landscape with AI-driven innovation
 
-Research predicts artificial intelligence (AI) will drive an additional $15.7 trillion in global economic growth by 2030.1 Leverage the power of AI with T-Systems’ end-to-end services for building, deploying, and scaling tailored AI and LLM solutions. T-Systems’ AI Foundation Services (AIFS) is the only European platform enabling regulated industries to innovate securely and at scale, ensuring full data privacy and control.
+Research predicts artificial intelligence (AI) will drive an additional $15.7 trillion in global economic growth by 2030.1 
+Leverage the power of AI with T-Systems’ end-to-end services for building, deploying, and scaling tailored AI and LLM solutions. 
+T-Systems’ AI Foundation Services (AIFS) is the only European platform enabling regulated industries to innovate securely and at scale, ensuring full data privacy and control.
 
 Solutions:
 
