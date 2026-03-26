@@ -16,8 +16,10 @@ Observability: langsmith
 ## Industrial AI Cloud
    { 
     'title':'Industrial AI Cloud',
+
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/industrial-ai-cloud',
-    'content':
+
+    'content': 
 The cloud for industrial AI – fast, sovereign, and scalable.
 Are you looking for a powerful and sovereign AI platform?
 With the Industrial AI Cloud, we – together with NVIDIA – offer a high-performance AI cloud for enterprises, research institutions, and the public sector. The platform is independent, GDPR-compliant, and meets all requirements of the EU AI Act.
@@ -47,9 +49,12 @@ Benefit from the latest NVIDIA technology and the experience of a European provi
 },
 ## AI Solution Factory
     {
+
     'title':'AI Solution Factory',
+
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-solution-factory',
-    'content':"""
+
+    'content':"""    
 AI Solution Factory: When Failure Is Not an Option
 
 Reduce failure rates and introduce intelligent automation to business processes with AI Solution Factory from T-Systems
@@ -87,8 +92,11 @@ highly scalable to large number of cameras
 },
 ## AI Foundation Services
     {
+
     'title':'AI Foundation Services',
+
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-foundation-services',
+
     'content':"""
 AI Foundation Services: Empower your enterprise with trusted, compliant AI solutions for tomorrow’s growth 
 
@@ -116,8 +124,11 @@ Rapid implementation: Reduce deployment time with pre-configured modules
 },
 ## Artificial Intelligence and Data Analytics
     {
+
     'title':'Artificial Intelligence and Data Analytics',
+
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/artificial-intelligence-and-data-analytics',
+
     'content':"""
 How companies turn their data into gold
 
@@ -141,8 +152,11 @@ Thanks to our comprehensive partner ecosystem, we are familiar with all technolo
 },
 ## AI on Google Cloud
     {
+
     'title':'AI on Google Cloud',
+
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-on-google-cloud',
+
     'content':"""
 AI solutions on Google Cloud
 Utilize Google Cloud to create and deploy powerful AI models that benefit your business
@@ -158,8 +172,11 @@ The Google Cloud Vertex AI platform is a powerful managed machine learning solut
 },
 ## UiPath AI-as-a-Service
     {
+
     'title':'UiPath AI-as-a-Service',
+
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/uipath-ai-as-a-service',
+
     'content':"""
 Smarter automation with UiPath AI-as-a-Service
 
@@ -175,8 +192,11 @@ T-Systems supports its customers in optimally positioning themselves in the fiel
 },
 ## Big Data Analytics
     {
+
     'title':'Big Data Analytics',
+
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/big-data-analytics',
+
     'content':"""
 Cost efficiency and quick data analysis in construction, testing, and production
 
@@ -210,8 +230,11 @@ We look forward to your project!
 },
 ## Data Intelligence Hub
     {
+
     'title':'Data Intelligence Hub',
+
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-intelligence-hub',
+
     'content':"""
 Share, process, and analyze data on your own terms with data sovereignty protection
 
@@ -269,8 +292,11 @@ Enable trust between mobility providers to share data to unlock higher efficienc
 },
 ## Data Spaces
     {
+
     'title':'Data Spaces',
+
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-spaces',
+
     'content':"""
 Data spaces: using data together
 
@@ -283,9 +309,12 @@ From data warehouses to data spaces
 Data warehouses were considered the optimal solution to unite structured data from heterogeneous sources for analysis in a central database. A data lake takes it one step further and saves both structured and unstructured data. The unformatted data are only processed for each given analysis. Data spaces dissolve this centrality and offer a decentralized solution where each participant can offer their own data. They stay with the supplier and are made available through secure peer-to-peer communication with common semantics and data sovereignty.
 """
 },
+## Data Mesh
     {
     'title':'Data Mesh',
+
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-mesh',
+
     'content':"""
 Data Mesh architecture, products, and solutions
 Unlock data's potential with decentralized ownership for agile management and smarter decisions
@@ -307,9 +336,13 @@ Self serve platform: decentralized data delivery, reduces costs
 """
 },
 ## Magenta Digital Product Passport
+
     {
+
     'title':'Magenta Digital Product Passport',
+
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/digital-product-passport',
+    
     'content':"""
 Digital Product Passport made simple
 Comply with EU regulations and turn compliance into a digital advantage
