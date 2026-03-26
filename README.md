@@ -13,8 +13,8 @@ Observability: langsmith
 
 # Data layer (11 portfolio solutions)
 
- {
-    'title':'Industrial AI Cloud',
+## Industrial AI Cloud
+   { 'title':'Industrial AI Cloud',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/industrial-ai-cloud',
     'content':"""
 The cloud for industrial AI – fast, sovereign, and scalable.
@@ -44,6 +44,7 @@ AI sovereignty for Europe - now available for all industries
 Benefit from the latest NVIDIA technology and the experience of a European provider that ensures maximum sovereignty.
 """
 },
+## AI Solution Factory
     {
     'title':'AI Solution Factory',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-solution-factory',
@@ -83,6 +84,7 @@ real time processing dependent on computational resources
 highly scalable to large number of cameras
 """
 },
+## AI Foundation Services
     {
     'title':'AI Foundation Services',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-foundation-services',
@@ -111,6 +113,7 @@ Enhanced customer and workforce experience: Equip teams with intuitive tools and
 Rapid implementation: Reduce deployment time with pre-configured modules
 """
 },
+## Artificial Intelligence and Data Analytics
     {
     'title':'Artificial Intelligence and Data Analytics',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/artificial-intelligence-and-data-analytics',
@@ -135,6 +138,7 @@ Security and data protection as the top priority with AI
 Thanks to our comprehensive partner ecosystem, we are familiar with all technologies related to big data and artificial intelligence. We are familiar with databases and data warehouses. In doing so, we act independently of manufacturers, so that a vendor lock-in can be avoided. We also offer you exactly the best-of-breed solutions that fit your needs. In a way that is cost-efficient, fail-safe and is conforms to compliance and data protection requirements. Cybersecurity and data protection are integral parts of T-Systems' DNA. For us, data security is the top priority in AI projects.
 """
 },
+## AI on Google Cloud
     {
     'title':'AI on Google Cloud',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/ai-on-google-cloud',
@@ -151,6 +155,7 @@ Advanced AI services from Google Cloud
 The Google Cloud Vertex AI platform is a powerful managed machine learning solution that enables you to build, deploy, and scale ML models efficiently. By integrating Google Cloud services, Vertex AI offers ML engineers and data scientists the tools needed to streamline the ML and MLOps workflow, including the use of Vertex AI pipelines. Our GenAI solutions leverage Vertex AI to train and deploy large language models, including Google's flagship LLM, Gemini. We customize these pre-trained models with your data to fulfill specific business needs. Additional usage of Google Cloud's robust infrastructure for data processing, storage, and scalable deployment ensures full life cycle support for your AI applications. Through the Vertex AI Model Garden, we also integrate specialized open-source LLMs, enabling seamless expansion and customization of your AI capabilities.
 """
 },
+## UiPath AI-as-a-Service
     {
     'title':'UiPath AI-as-a-Service',
     'link': 'https://www.t-systems.com/de/en/artificial-intelligence/solutions/uipath-ai-as-a-service',
@@ -167,6 +172,7 @@ Transforming into a responsible, AI-supported company
 T-Systems supports its customers in optimally positioning themselves in the field of AI and generating concrete added value. Additionally, we assist companies from the initialization to the introduction and implementation of solutions.
 """
 },
+## Big Data Analytics
     {
     'title':'Big Data Analytics',
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/big-data-analytics',
@@ -201,6 +207,7 @@ Security and efficiency in the operation of the big data infrastructure: managed
 We look forward to your project!
 """
 },
+## Data Intelligence Hub
     {
     'title':'Data Intelligence Hub',
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-intelligence-hub',
@@ -259,6 +266,7 @@ Modal travel shift
 Enable trust between mobility providers to share data to unlock higher efficiency and utilization of mobility resources, to gain a triple win outcome – “everyone’s a winner”: consumers (better travel), providers (more business), and cities (cleaner, safer, less noise). Tap into new data sources and create new business opportunities by offering your data-as-a-product.
 """
 },
+## Data Spaces
     {
     'title':'Data Spaces',
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/data-spaces',
@@ -297,6 +305,7 @@ federated governance: collaborative global data policies
 Self serve platform: decentralized data delivery, reduces costs
 """
 },
+## Magenta Digital Product Passport
     {
     'title':'Magenta Digital Product Passport',
     'link': 'https://www.t-systems.com/de/en/data-intelligence/solutions/digital-product-passport',
