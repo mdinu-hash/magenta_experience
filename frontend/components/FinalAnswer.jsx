@@ -43,6 +43,10 @@ export default function FinalAnswer({ text }) {
           </li>
         ))}
       </ul>
+
+      <div className="final-answer__cta">
+        <button className="final-answer__contact-btn">Contact Us</button>
+      </div>
     </div>
   )
 }

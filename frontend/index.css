@@ -248,6 +248,28 @@ body {
   border-left: 2px solid var(--magenta);
 }
 
+.final-answer__cta {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.final-answer__contact-btn {
+  background: var(--magenta);
+  border: none;
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: var(--font);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.final-answer__contact-btn:hover {
+  background: var(--magenta-dark);
+}
+
 /* ── Input bar ── */
 
 .input-bar {
